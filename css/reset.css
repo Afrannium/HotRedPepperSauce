@@ -41,3 +41,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+:root {
+    --grl: #6E8C03;
+    --grd: #465902;
+    --rl: #F20505;
+    --rd: #A60303;
+    --w: #F2F2F2;
+}
