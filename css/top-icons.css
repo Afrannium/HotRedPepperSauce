@@ -1,0 +1,33 @@
+.top-icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100px;
+    margin-right: 30px;
+    font: 16px "Roboto";
+    
+    
+}
+
+.perfil {
+    margin-bottom: 9px;
+}
+
+.perfil .perfilIcon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90px;
+    text-decoration: none;
+    color: black;
+}
+
+.basket .basketIcon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 93px;
+    text-decoration: none;
+    color: black;
+}
