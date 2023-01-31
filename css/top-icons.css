@@ -11,7 +11,19 @@
 }
 
 .perfil {
-    margin-bottom: 9px;
+    margin-bottom: 14px;
+    position: relative;
+    
+}
+
+.perfilIcon::after {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 60px;
+    height: 2px;
+    top: 37px;
+    background-color: rgb(77, 77, 77);
 }
 
 .perfil .perfilIcon {
